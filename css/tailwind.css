@@ -1,0 +1,13 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.menu-li{
+    @apply text-white list-none p-5 text-lg hidden;
+}
+
+.img-best{
+    @apply text-white text-center p-6;
+}
